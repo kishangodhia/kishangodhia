@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+### I am Kishan Godhia, an average college student currently in last semester of BCA.
+
+
+- 🔭 I’m currently working on **College Project** based on Web3 and Js
+- 🌱 I’m currently learning **Web Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with ***DSA and DevOps***
+- 📫 How to reach me: via twitter **@kishangodhia**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I do things mostly before their end time....xD
 
 <!--
 **kishangodhia/kishangodhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
