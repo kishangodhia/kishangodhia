@@ -2,7 +2,7 @@
 ### I am Kishan Godhia, an average college student currently in last semester of BCA.
 
 
-- 🔭 I’m currently working on **College Project** based on Web3 and Js
+- 🔭 I’m currently working on **College Project** based on **Web3 and Js**
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with ***DSA and DevOps***
